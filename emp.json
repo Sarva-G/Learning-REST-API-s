@@ -1,0 +1,62 @@
+[
+{
+    "model": "without_rest_framework_app.employee",
+    "pk": 1,
+    "fields": {
+        "e_no": 100,
+        "e_name": "Padmaja Rajagopalan",
+        "e_salary": 45000.0,
+        "e_address": "Vizag"
+    }
+},
+{
+    "model": "without_rest_framework_app.employee",
+    "pk": 2,
+    "fields": {
+        "e_no": 200,
+        "e_name": "Saravanan Ganesan",
+        "e_salary": 35000.0,
+        "e_address": "Chennai"
+    }
+},
+{
+    "model": "without_rest_framework_app.employee",
+    "pk": 3,
+    "fields": {
+        "e_no": 300,
+        "e_name": "Raj Kulathu",
+        "e_salary": 50000.0,
+        "e_address": "Halifax"
+    }
+},
+{
+    "model": "without_rest_framework_app.employee",
+    "pk": 4,
+    "fields": {
+        "e_no": 400,
+        "e_name": "Hemanth Hrithik",
+        "e_salary": 25000.0,
+        "e_address": "Chennai"
+    }
+},
+{
+    "model": "without_rest_framework_app.employee",
+    "pk": 5,
+    "fields": {
+        "e_no": 500,
+        "e_name": "Koushik Kumar",
+        "e_salary": 60000.0,
+        "e_address": "Hyderabad"
+    }
+},
+{
+    "model": "without_rest_framework_app.employee",
+    "pk": 6,
+    "fields": {
+        "e_no": 600,
+        "e_name": "Arvind Koo",
+        "e_salary": 15000.0,
+        "e_address": "Salem"
+    }
+}
+]

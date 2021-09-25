@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object model="without_rest_framework_app.employee" pk="1">
+        <field name="e_no" type="IntegerField">100</field>
+        <field name="e_name" type="CharField">Padmaja Rajagopalan</field>
+        <field name="e_salary" type="FloatField">45000.0</field>
+        <field name="e_address" type="CharField">Vizag</field>
+    </object>
+    <object model="without_rest_framework_app.employee" pk="2">
+        <field name="e_no" type="IntegerField">200</field>
+        <field name="e_name" type="CharField">Saravanan Ganesan</field>
+        <field name="e_salary" type="FloatField">35000.0</field>
+        <field name="e_address" type="CharField">Chennai</field>
+    </object>
+    <object model="without_rest_framework_app.employee" pk="3">
+        <field name="e_no" type="IntegerField">300</field>
+        <field name="e_name" type="CharField">Raj Kulathu</field>
+        <field name="e_salary" type="FloatField">50000.0</field>
+        <field name="e_address" type="CharField">Halifax</field>
+    </object>
+    <object model="without_rest_framework_app.employee" pk="4">
+        <field name="e_no" type="IntegerField">400</field>
+        <field name="e_name" type="CharField">Hemanth Hrithik</field>
+        <field name="e_salary" type="FloatField">25000.0</field>
+        <field name="e_address" type="CharField">Chennai</field>
+    </object>
+    <object model="without_rest_framework_app.employee" pk="5">
+        <field name="e_no" type="IntegerField">500</field>
+        <field name="e_name" type="CharField">Koushik Kumar</field>
+        <field name="e_salary" type="FloatField">60000.0</field>
+        <field name="e_address" type="CharField">Hyderabad</field>
+    </object>
+    <object model="without_rest_framework_app.employee" pk="6">
+        <field name="e_no" type="IntegerField">600</field>
+        <field name="e_name" type="CharField">Arvind Koo</field>
+        <field name="e_salary" type="FloatField">15000.0</field>
+        <field name="e_address" type="CharField">Salem</field>
+    </object>
+</django-objects>
